@@ -4,3 +4,4 @@ python-dotenv
 openai
 dotenv
 ipython
+langchain_openai
